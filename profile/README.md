@@ -19,7 +19,6 @@ Co-learn Web3 FrontEnd，一起变强！🔥🔥🔥
 | ------------------ | ------------------------------------------------------------ |
 | [🍕Materials](https://github.com/web3-frontend/.github/discussions/categories/materials)         | 学习材料分享:  前端/web3 优质资料(文章/书籍/课程...)    |
 | [🙏 Q&A](https://github.com/web3-frontend/.github/discussions/categories/q-a)              | 提问 / 答疑                                                  |
-| 👯[Co-learn FE！](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/co-learn-fe)      | 共学自组织 ~ 不知道如何发起 —— 工具包可自取 |
 | 💡[I've got an idea!](https://github.com/web3-frontend/.github/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. web3前端共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
 
 
